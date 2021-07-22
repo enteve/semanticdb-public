@@ -38,7 +38,7 @@
     "semanticdb-common-lib": "^1.0.1",
     "sleepjs": "^3.0.2",
     "underscore": "^1.10.2",
-    "xlsx": "^0.16.9"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "esm": "^3.2.25"
